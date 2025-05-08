@@ -13,7 +13,7 @@
 ### Inštalácia ako aplikácia na mobilnom zariadení - DOPORUČENÉ
 
 Tipovačka je Progressive Web App (PWA), čo v ľudskej reči znamená, že si ju môžeš "nainštalovať" ako normálnu appku. 
-Ale pozor! Ak si ju nepridáš na plochu ti nebudú chodiť notifikácie !! Takže pre zabudlívcov odporúčam, sú tam notifikácie, že ak nenatipuješ tak ti to appka sama pripomenie hodinu pred zápasom.
+Ale pozor! Ak si ju nepridáš na plochu, tak ti nebudú chodiť notifikácie !! Takže pre zabudlívcov odporúčam, sú tam notifikácie, že ak nenatipuješ, tak ti to appka sama pripomenie hodinu pred zápasom.
 
 1. **Na Android zariadení**:
    - Otvorte stránku v prehliadači Chrome, poprípade inom.
